@@ -8,7 +8,11 @@ public class C {
 
 		System.out.println("Where is the bus stop?");
 
+
 		System.out.println("When will the next bus come?");
+
+
+		System.out.println("Thank you.");
 
 	}
 
